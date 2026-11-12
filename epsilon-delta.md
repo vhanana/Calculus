@@ -16,7 +16,7 @@ $$
 
 $$
 \boxed{
-\forall\varepsilon>0,\ \exists\delta>0\ \text{such that}\
+\forall\varepsilon>0,\ \exists\delta>0\ \text{such that}\quad
 0<|x-a|<\delta\ \Longrightarrow\ |f(x)-L|<\varepsilon
 }
 $$
